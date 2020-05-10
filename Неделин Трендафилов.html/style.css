@@ -1,0 +1,27 @@
+html{
+    height: 100%;
+    background: linear-gradient(white,gray);
+}
+
+.content{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.content .button {
+    display: inline-block;
+    width: 180px;
+    height: 30px;
+    line-height: 30px;
+    background-color: rgb(59, 112, 158);
+    color: rgb(3, 3, 3);
+    border-radius: 10px;
+}
+
+.content p {
+    text-align: center;
+}
+
+.content .header {
+    margin-bottom: 40px;
+}
